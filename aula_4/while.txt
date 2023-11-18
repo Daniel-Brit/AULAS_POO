@@ -1,2 +1,0 @@
-#A estrutura de repetição while deve ser utilizada em situações em que não se
-sabe quantas iterações/execuções serão realizadas
